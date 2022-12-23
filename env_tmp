@@ -1,0 +1,9 @@
+AWS_PROFILE=default
+AWS_REGION=us-east-1
+AWS_SOURCE_AMI=ami-02e136e904f3da870
+INSTANCE_TYPE=t3a.medium
+SSH_USER=ec2-user
+AMI_NAME=packer-sangchul-web
+VPC_ID=vpc-
+SUBNET_ID=subnet-
+SECURITY_GROUP_ID=sg-
